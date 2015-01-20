@@ -5,6 +5,7 @@ Start with these links.
 
 
 http://download.multiotp.net/raspberry/
+  This is the main link. We downloaded the iso and it was difficult to get this burned onto the SD cards.
 
 https://support.google.com/accounts/answer/1066447?hl=en
 
