@@ -1,4 +1,4 @@
-# two_factor
+# two_factor_pi_auth
 An out of bandwidth connection to a server
 
 Start with these links.
